@@ -125,7 +125,7 @@ public class TileManager {
             System.out.println(tilenum);
 
             if(tilenum == 0){
-                player.setSpeed(4);
+                player.setSpeed(2);
             }
             if(tilenum == 2){
                 player.setSpeed(4);
